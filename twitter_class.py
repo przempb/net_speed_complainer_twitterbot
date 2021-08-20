@@ -1,7 +1,11 @@
 from selenium import webdriver
 import time
 
+#___FIRST DOWNLOAD SELENIUM CHROMEDRIVER AND USE SPECIFIC PATH
+#___https://chromedriver.chromium.org/downloads
 webdriver_chrome_path = r"C:\Users\przem\Documents\Python Scripts\chromedriver.exe"
+
+#___SPECIFY YOUR LOGIN DETAILS
 TWITTER_MAIL = "YOUR_USERNAME OR EMAIL"
 TWITTER_PASS = "YOUR PASSWORD"
 
