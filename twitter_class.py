@@ -2,8 +2,8 @@ from selenium import webdriver
 import time
 
 webdriver_chrome_path = r"C:\Users\przem\Documents\Python Scripts\chromedriver.exe"
-TWITTER_MAIL = "SpeedtestCheck"
-TWITTER_PASS = "testsmtp"
+TWITTER_MAIL = "YOUR_USERNAME OR EMAIL"
+TWITTER_PASS = "YOUR PASSWORD"
 
 class InternetSpeedTwitterBot:
 
